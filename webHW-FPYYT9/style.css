@@ -1,0 +1,19 @@
+#sakura {
+     display: block;
+     width: 200px;
+     height: 200px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.card {
+     font-family: "Verdana", Times, serif;
+}
+
+#nav {
+     font-family: "Verdana", Times, serif;
+}
+
+.container{
+     font-family: "Verdana", Times, serif;
+}
